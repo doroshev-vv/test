@@ -1,0 +1,4 @@
+#include test;
+
+void main(String argv[]) {
+}

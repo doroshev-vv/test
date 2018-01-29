@@ -1,5 +1,4 @@
 #include test;
 
 void main(String argv[]) {
-  System.out.println("Fuck this");
 }

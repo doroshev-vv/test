@@ -1,0 +1,5 @@
+sheet = loadFromFile("c:\test.data");
+row = sheet.createRow();
+row.createCell(0).Value = "Value01";
+row.createCell(1).Value = "Value02";
+row.createCell(2).Value = "Value03";
